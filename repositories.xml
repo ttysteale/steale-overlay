@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+ 
+<repositories version="1.0">
+  <repo priority="50" quality="experimental" status="unofficial">
+    <name>steale</name>
+    <description>Overlays not in main tree</description>
+    <homepage>https://github.com/ttysteale/steale-overlay</homepage>
+    <owner>
+      <email>sam@samteale.co.uk</email>
+    </owner>
+    <source type="git">https://github.com/ttysteale/steale-overlay.git</source>
+  </repo>
+</repositories>

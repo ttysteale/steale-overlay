@@ -5,7 +5,7 @@
 EAPI=5
 
 MODULE_AUTHOR="SRI"
-MODULE_VERSION="undef"
+MODULE_VERSION="6.17"
 
 
 inherit perl-module

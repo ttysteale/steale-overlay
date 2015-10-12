@@ -30,6 +30,5 @@ src_compile() {
 }
 
 src_install() {
-	dodoc -r docs
 	dobin kore
 }

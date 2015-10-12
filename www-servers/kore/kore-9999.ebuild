@@ -26,7 +26,7 @@ src_prepare() {
 
 src_compile() {
 	tc-export CC
-	emake linux
+	make
 }
 
 src_install() {

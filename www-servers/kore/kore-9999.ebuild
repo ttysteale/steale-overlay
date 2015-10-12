@@ -31,4 +31,5 @@ src_compile() {
 
 src_install() {
 	dobin kore
+	doins includes/*.h
 }

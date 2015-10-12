@@ -31,7 +31,6 @@ src_compile() {
 
 src_install() {
 	dobin kore
-	mkdir /usr/include/kore
 	insinto /usr/include/kore
 	doins includes/*.h
 }

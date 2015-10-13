@@ -22,6 +22,6 @@ DEPEND=">=dev-perl/Email-MIME-1.929.0
 	dev-perl/Test-Requires
 	>=dev-perl/Module-Runtime-0.14.0
 	dev-perl/Moose
-	>=perl-gcpan/Catalyst-Runtime-5.90097
+	>=dev-perl/Catalyst-Runtime-5.90097
 	dev-perl/Email-Sender
 	dev-lang/perl"

@@ -19,23 +19,23 @@ IUSE=""
 
 DEPEND="dev-perl/MooseX-Types
 	dev-perl/Hash-Merge
-	>=perl-gcpan/DBIx-Class-Schema-Loader-0.07043
+	>=dev-perl/DBIx-Class-Schema-Loader-0.07043
 	dev-perl/Test-Requires
 	>=dev-perl/namespace-autoclean-0.130.0
 	dev-perl/Carp-Clan
 	dev-perl/Tie-IxHash
-	>=perl-gcpan/MooseX-NonMoose-0.26
-	perl-gcpan/Catalyst-Component-InstancePerContext
+	>=dev-perl/MooseX-NonMoose-0.26
+	dev-perl/Catalyst-Component-InstancePerContext
 	dev-perl/Test-Exception
 	dev-perl/namespace-clean
 	dev-perl/DBD-SQLite
 	>=dev-perl/Module-Runtime-0.14.0
-	>=perl-gcpan/CatalystX-Component-Traits-0.19
-	>=perl-gcpan/MooseX-MarkAsMethods-0.15
+	>=dev-perl/CatalystX-Component-Traits-0.19
+	>=dev-perl/MooseX-MarkAsMethods-0.15
 	dev-perl/Try-Tiny
 	dev-perl/List-MoreUtils
-	>=perl-gcpan/Catalyst-Runtime-5.90097
+	>=dev-perl/Catalyst-Runtime-5.90097
 	dev-perl/Moose
 	dev-perl/DBIx-Class
-	>=perl-gcpan/MooseX-Types-LoadableClass-0.014
+	>=dev-perl/MooseX-Types-LoadableClass-0.014
 	dev-lang/perl"

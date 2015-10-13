@@ -23,6 +23,6 @@ DEPEND="dev-perl/Moose
 	dev-perl/MooseX-Types-Path-Class
 	dev-perl/Test-Fatal
 	dev-perl/namespace-autoclean
-	perl-gcpan/Devel-CheckOS
+	dev-perl/Devel-CheckOS
 	>=dev-perl/Module-Build-Tiny-0.39.0
 	dev-lang/perl"

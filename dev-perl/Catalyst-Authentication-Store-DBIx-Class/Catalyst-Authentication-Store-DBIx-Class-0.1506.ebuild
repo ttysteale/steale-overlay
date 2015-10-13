@@ -20,9 +20,9 @@ IUSE=""
 DEPEND="dev-perl/Moose
 	dev-perl/DBIx-Class
 	dev-perl/List-MoreUtils
-	>=perl-gcpan/Catalyst-Plugin-Authentication-0.10023
+	>=dev-perl/Catalyst-Plugin-Authentication-0.10023
 	dev-perl/Try-Tiny
-	>=perl-gcpan/Catalyst-Model-DBIC-Schema-0.65
+	>=dev-perl/Catalyst-Model-DBIC-Schema-0.65
 	dev-perl/namespace-autoclean
-	>=perl-gcpan/Catalyst-Runtime-5.90097
+	>=dev-perl/Catalyst-Runtime-5.90097
 	dev-lang/perl"

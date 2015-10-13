@@ -18,27 +18,27 @@ KEYWORDS="alpha amd64 amd64-fbsd arm arm64 hppa ia64 m68k mips nios2 ppc ppc64 s
 IUSE=""
 
 DEPEND=">=dev-perl/Class-Unload-0.70.0
-	>=perl-gcpan/Lingua-EN-Tagger-0.25
+	>=dev-perl/Lingua-EN-Tagger-0.25
 	>=dev-perl/namespace-clean-0.250.0
 	>=dev-perl/DBD-SQLite-1.460.0
 	>=dev-perl/Class-Inspector-1.280.0
-	perl-gcpan/DBIx-Class-IntrospectableM2M
+	dev-perl/DBIx-Class-IntrospectableM2M
 	>=dev-perl/Test-Exception-0.320.0
-	>=perl-gcpan/MooseX-NonMoose-0.26
-	>=perl-gcpan/MooseX-MarkAsMethods-0.15
+	>=dev-perl/MooseX-NonMoose-0.26
+	>=dev-perl/MooseX-MarkAsMethods-0.15
 	dev-perl/Try-Tiny
 	dev-perl/Class-C3-Componentised
 	>=dev-perl/Data-Dump-1.220.0
 	dev-perl/DBIx-Class
 	>=dev-perl/Hash-Merge-0.120.0
 	>=dev-perl/MRO-Compat-0.120.0
-	>=perl-gcpan/String-ToIdentifier-EN-0.11
+	>=dev-perl/String-ToIdentifier-EN-0.11
 	dev-perl/Config-Any
 	>=dev-perl/namespace-autoclean-0.130.0
 	dev-perl/Carp-Clan
-	>=perl-gcpan/String-CamelCase-0.02
-	>=perl-gcpan/Lingua-EN-Inflect-Phrase-0.18
-	>=perl-gcpan/Scalar-List-Utils-1.42
+	>=dev-perl/String-CamelCase-0.02
+	>=dev-perl/Lingua-EN-Inflect-Phrase-0.18
+	>=dev-perl/Scalar-List-Utils-1.42
 	>=dev-perl/Test-Warn-0.240.0
 	>=dev-perl/Test-Deep-0.115.0
 	>=dev-perl/Class-Accessor-Grouped-0.100.100
@@ -46,6 +46,6 @@ DEPEND=">=dev-perl/Class-Unload-0.70.0
 	>=dev-perl/Scope-Guard-0.200.0
 	dev-perl/Config-General
 	dev-perl/Moose
-	>=perl-gcpan/Lingua-EN-Inflect-Number-1.12
+	>=dev-perl/Lingua-EN-Inflect-Number-1.12
 	>=dev-perl/Test-Pod-1.480.0
 	dev-lang/perl"

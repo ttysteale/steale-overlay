@@ -19,8 +19,8 @@ IUSE=""
 
 DEPEND="dev-perl/Class-Accessor
 	dev-perl/MRO-Compat
-	>=perl-gcpan/Catalyst-Plugin-Session-Store-Delegate-0.06
-	perl-gcpan/Catalyst-Runtime
+	>=dev-perl/Catalyst-Plugin-Session-Store-Delegate-0.06
+	dev-perl/Catalyst-Runtime
 	>=dev-perl/Test-Warn-0.240.0
 	dev-perl/DBIx-Class
 	dev-lang/perl"

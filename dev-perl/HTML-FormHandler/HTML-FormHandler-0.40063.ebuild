@@ -17,11 +17,11 @@ SLOT="0"
 KEYWORDS="alpha amd64 amd64-fbsd arm arm64 hppa ia64 m68k mips nios2 ppc ppc64 s390 sh sparc sparc-fbsd x86 x86-fbsd   ppc-aix x86-freebsd x64-freebsd sparc64-freebsd hppa-hpux ia64-hpux x86-interix amd64-linux arm-linux ia64-linux ppc64-linux x86-linux ppc-macos x86-macos x64-macos m68k-mint x86-netbsd ppc-openbsd x86-openbsd x64-openbsd sparc-solaris sparc64-solaris x64-solaris x86-solaris x86-winnt x64-cygwin x86-cygwin"
 IUSE=""
 
-DEPEND="perl-gcpan/MooseX-Types-Common
+DEPEND="dev-perl/MooseX-Types-Common
 	>=dev-perl/Class-Load-0.230.0
 	>=dev-perl/File-ShareDir-Install-0.90.0
 	dev-perl/Try-Tiny
-	>=perl-gcpan/MooseX-Types-LoadableClass-0.014
+	>=dev-perl/MooseX-Types-LoadableClass-0.014
 	dev-perl/PadWalker
 	dev-perl/Sub-Name
 	dev-perl/Test-Differences
@@ -31,7 +31,7 @@ DEPEND="perl-gcpan/MooseX-Types-Common
 	>=dev-perl/namespace-autoclean-0.130.0
 	dev-perl/aliased
 	>=dev-perl/MooseX-Types-0.350.0
-	perl-gcpan/Data-Clone
+	dev-perl/Data-Clone
 	dev-perl/DateTime-Format-Strptime
 	dev-perl/Sub-Exporter
 	dev-perl/File-ShareDir

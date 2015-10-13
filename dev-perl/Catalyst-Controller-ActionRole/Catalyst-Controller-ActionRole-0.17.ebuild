@@ -19,9 +19,9 @@ IUSE=""
 
 DEPEND="dev-perl/Class-Load
 	>=dev-perl/String-RewritePrefix-0.6.0
-	perl-gcpan/Catalyst-Runtime
+	dev-perl/Catalyst-Runtime
 	dev-perl/Moose
-	>=perl-gcpan/Catalyst-Action-REST-1.19
+	>=dev-perl/Catalyst-Action-REST-1.19
 	dev-perl/MooseX-Types
 	dev-perl/namespace-autoclean
 	dev-perl/namespace-clean

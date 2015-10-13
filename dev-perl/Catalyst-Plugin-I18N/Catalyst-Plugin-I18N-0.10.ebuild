@@ -19,5 +19,5 @@ IUSE=""
 
 DEPEND="dev-perl/Locale-Maketext-Lexicon
 	>=dev-perl/MRO-Compat-0.120.0
-	perl-gcpan/Catalyst-Runtime
+	dev-perl/Catalyst-Runtime
 	dev-lang/perl"

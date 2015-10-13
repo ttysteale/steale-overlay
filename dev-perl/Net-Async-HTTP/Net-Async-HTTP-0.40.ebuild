@@ -18,11 +18,11 @@ KEYWORDS="alpha amd64 amd64-fbsd arm arm64 hppa ia64 m68k mips nios2 ppc ppc64 s
 IUSE=""
 
 DEPEND="dev-perl/HTTP-Message
-	perl-gcpan/Struct-Dumb
+	dev-perl/Struct-Dumb
 	dev-perl/HTTP-Cookies
-	>=perl-gcpan/Future-0.33
-	>=perl-gcpan/IO-Async-0.68
+	>=dev-perl/Future-0.33
+	>=dev-perl/IO-Async-0.68
 	dev-perl/URI
-	perl-gcpan/Test-Identity
-	perl-gcpan/Test-Refcount
+	dev-perl/Test-Identity
+	dev-perl/Test-Refcount
 	dev-lang/perl"

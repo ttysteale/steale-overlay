@@ -20,11 +20,11 @@ IUSE=""
 DEPEND="dev-perl/Moose
 	dev-perl/Test-Exception
 	dev-perl/Class-Inspector
-	perl-gcpan/MooseX-Emulate-Class-Accessor-Fast
+	dev-perl/MooseX-Emulate-Class-Accessor-Fast
 	dev-perl/Try-Tiny
 	dev-perl/MRO-Compat
 	dev-perl/String-RewritePrefix
-	>=perl-gcpan/Catalyst-Plugin-Session-0.40
-	perl-gcpan/Catalyst-Runtime
+	>=dev-perl/Catalyst-Plugin-Session-0.40
+	dev-perl/Catalyst-Runtime
 	dev-perl/namespace-autoclean
 	dev-lang/perl"

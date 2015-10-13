@@ -20,7 +20,7 @@ IUSE=""
 DEPEND="dev-perl/HTTP-Message
 	dev-perl/HTTP-Date
 	dev-perl/net-server
-	perl-gcpan/HTTP-Parser-XS
+	dev-perl/HTTP-Parser-XS
 	dev-perl/Plack
 	dev-perl/Test-Requires
 	>=dev-perl/Module-Build-Tiny-0.39.0

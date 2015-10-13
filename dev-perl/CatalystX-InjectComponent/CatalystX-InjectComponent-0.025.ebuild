@@ -19,6 +19,6 @@ IUSE=""
 
 DEPEND="dev-perl/Module-Pluggable
 	dev-perl/Class-Inspector
-	>=perl-gcpan/Catalyst-Runtime-5.90097
+	>=dev-perl/Catalyst-Runtime-5.90097
 	dev-perl/Test-Most
 	dev-lang/perl"

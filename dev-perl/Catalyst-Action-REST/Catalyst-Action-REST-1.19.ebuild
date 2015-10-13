@@ -26,5 +26,5 @@ DEPEND=">=dev-perl/Class-Inspector-1.280.0
 	dev-perl/namespace-autoclean
 	dev-perl/Module-Pluggable
 	dev-perl/Test-Requires
-	>=perl-gcpan/Catalyst-Runtime-5.90097
+	>=dev-perl/Catalyst-Runtime-5.90097
 	dev-lang/perl"

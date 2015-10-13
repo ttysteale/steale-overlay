@@ -21,7 +21,7 @@ DEPEND="dev-perl/Moose
 	dev-perl/namespace-autoclean
 	dev-perl/List-MoreUtils
 	dev-perl/Class-Load
-	perl-gcpan/MooseX-Traits-Pluggable
-	>=perl-gcpan/MooseX-MethodAttributes-0.30
-	perl-gcpan/Catalyst-Runtime
+	dev-perl/MooseX-Traits-Pluggable
+	>=dev-perl/MooseX-MethodAttributes-0.30
+	dev-perl/Catalyst-Runtime
 	dev-lang/perl"

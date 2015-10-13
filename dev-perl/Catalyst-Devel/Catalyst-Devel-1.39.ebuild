@@ -20,19 +20,19 @@ IUSE=""
 DEPEND=">=dev-perl/Test-Fatal-0.10.0
 	dev-perl/File-Copy-Recursive
 	dev-perl/namespace-clean
-	perl-gcpan/MooseX-Emulate-Class-Accessor-Fast
-	>=perl-gcpan/Catalyst-Plugin-ConfigLoader-0.34
+	dev-perl/MooseX-Emulate-Class-Accessor-Fast
+	>=dev-perl/Catalyst-Plugin-ConfigLoader-0.34
 	>=dev-perl/Module-Install-1.60.0
 	>=dev-perl/Template-Toolkit-2.240.0
 	dev-perl/File-ShareDir
-	>=perl-gcpan/Catalyst-Action-RenderView-0.16
-	perl-gcpan/MooseX-Daemonize
+	>=dev-perl/Catalyst-Action-RenderView-0.16
+	dev-perl/MooseX-Daemonize
 	>=dev-perl/Path-Class-0.350.0
 	dev-perl/namespace-autoclean
 	dev-perl/Config-General
 	dev-perl/Moose
-	>=perl-gcpan/Catalyst-Runtime-5.90097
-	>=perl-gcpan/Catalyst-Plugin-Static-Simple-0.33
-	perl-gcpan/Starman
-	>=perl-gcpan/File-ChangeNotify-0.24
+	>=dev-perl/Catalyst-Runtime-5.90097
+	>=dev-perl/Catalyst-Plugin-Static-Simple-0.33
+	dev-perl/Starman
+	>=dev-perl/File-ChangeNotify-0.24
 	dev-lang/perl"

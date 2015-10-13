@@ -19,8 +19,8 @@ IUSE=""
 
 DEPEND="dev-perl/List-UtilsBy
 	>=dev-perl/File-ShareDir-1.30.0
-	perl-gcpan/Struct-Dumb
+	dev-perl/Struct-Dumb
 	dev-perl/List-MoreUtils
-	perl-gcpan/Test-Identity
+	dev-perl/Test-Identity
 	dev-perl/Module-Pluggable
 	dev-lang/perl"

@@ -23,6 +23,6 @@ DEPEND="dev-perl/Moose
 	dev-perl/List-MoreUtils
 	dev-perl/Class-Load
 	dev-perl/Module-Pluggable
-	perl-gcpan/MooseX-SemiAffordanceAccessor
-	perl-gcpan/MooseX-Params-Validate
+	dev-perl/MooseX-SemiAffordanceAccessor
+	dev-perl/MooseX-Params-Validate
 	dev-lang/perl"

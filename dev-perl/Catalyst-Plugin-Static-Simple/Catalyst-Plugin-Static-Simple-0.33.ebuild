@@ -20,6 +20,6 @@ IUSE=""
 DEPEND="dev-perl/MooseX-Types
 	dev-perl/Moose
 	>=dev-perl/MIME-Types-2.090.0
-	>=perl-gcpan/Catalyst-Runtime-5.90097
+	>=dev-perl/Catalyst-Runtime-5.90097
 	dev-perl/namespace-autoclean
 	dev-lang/perl"

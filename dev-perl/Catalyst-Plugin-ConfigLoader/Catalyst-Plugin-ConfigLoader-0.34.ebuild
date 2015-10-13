@@ -19,7 +19,7 @@ IUSE=""
 
 DEPEND="dev-perl/Path-Class
 	>=dev-perl/Config-Any-0.240.0
-	>=perl-gcpan/Catalyst-Runtime-5.90097
+	>=dev-perl/Catalyst-Runtime-5.90097
 	>=dev-perl/MRO-Compat-0.120.0
 	>=dev-perl/Data-Visitor-0.300.0
 	dev-lang/perl"

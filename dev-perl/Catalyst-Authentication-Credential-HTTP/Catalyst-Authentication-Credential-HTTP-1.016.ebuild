@@ -21,8 +21,8 @@ DEPEND=">=dev-perl/Data-UUID-1.217.0
 	dev-perl/URI
 	dev-perl/Test-MockObject
 	dev-perl/Test-Exception
-	perl-gcpan/Catalyst-Runtime
+	dev-perl/Catalyst-Runtime
 	dev-perl/Class-Accessor
-	>=perl-gcpan/Catalyst-Plugin-Authentication-0.10023
+	>=dev-perl/Catalyst-Plugin-Authentication-0.10023
 	dev-perl/String-Escape
 	dev-lang/perl"

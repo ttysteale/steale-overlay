@@ -20,6 +20,6 @@ IUSE=""
 DEPEND=">=dev-perl/MRO-Compat-0.120.0
 	>=dev-perl/Class-Data-Inheritable-0.80.0
 	>=dev-perl/Cache-Cache-1.60.0
-	>=perl-gcpan/Catalyst-Plugin-Session-0.40
-	>=perl-gcpan/Catalyst-Runtime-5.90097
+	>=dev-perl/Catalyst-Plugin-Session-0.40
+	>=dev-perl/Catalyst-Runtime-5.90097
 	dev-lang/perl"

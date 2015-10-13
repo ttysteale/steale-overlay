@@ -18,5 +18,5 @@ KEYWORDS="alpha amd64 amd64-fbsd arm arm64 hppa ia64 m68k mips nios2 ppc ppc64 s
 IUSE=""
 
 DEPEND="dev-perl/Class-Accessor-Chained
-	perl-gcpan/Expect-Simple
+	dev-perl/Expect-Simple
 	dev-lang/perl"

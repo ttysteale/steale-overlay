@@ -21,9 +21,9 @@ DEPEND="dev-perl/namespace-autoclean
 	dev-perl/MooseX-Types
 	>=dev-perl/Devel-Cycle-1.120.0
 	dev-perl/Task-Weaken
-	perl-gcpan/Text-SimpleTable
+	dev-perl/Text-SimpleTable
 	>=dev-perl/PadWalker-1.960.0
-	>=perl-gcpan/Catalyst-Runtime-5.90097
+	>=dev-perl/Catalyst-Runtime-5.90097
 	dev-perl/Moose
 	>=dev-perl/namespace-clean-0.250.0
 	dev-lang/perl"

@@ -22,6 +22,6 @@ DEPEND="dev-perl/Devel-REPL
 	dev-perl/Devel-LexAlias
 	dev-perl/namespace-autoclean
 	dev-perl/Data-Dump-Streamer
-	perl-gcpan/Devel-StackTrace-WithLexicals
-	perl-gcpan/Test-Expect
+	dev-perl/Devel-StackTrace-WithLexicals
+	dev-perl/Test-Expect
 	dev-lang/perl"
